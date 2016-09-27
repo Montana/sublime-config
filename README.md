@@ -10,7 +10,7 @@ Montana Mendy's Sublime Text configuration files
 * Standard-comment.sublime-snippet
 * CoffeeScript-Configuration
   * coffee-method.sublime-snippet
-* Rails
+* Rails-Configuration
   * rails-logger.sublime-snippet
   * rails-method.sublime-snippet
 
