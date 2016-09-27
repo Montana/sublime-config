@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+
+${4:method_name} = (${5:arguments}) ->
+  ${6:# code here}
+]]></content>
+
+</snippet>
