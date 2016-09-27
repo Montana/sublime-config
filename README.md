@@ -13,4 +13,5 @@ Montana Mendy's Sublime Text configuration files
 * Rails
   * rails-logger.sublime-snippet
   * rails-method.sublime-snippet
-==================================
+
+=============================
